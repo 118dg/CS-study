@@ -1,0 +1,2 @@
+화장실에 칸 1개 : mutex
+화장실에 칸 3개 : semaphore
